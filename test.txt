@@ -1,1 +1,2 @@
 hello, this is my file
+This is a new line for test.txt
